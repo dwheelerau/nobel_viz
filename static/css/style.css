@@ -2,12 +2,12 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: #fefefe;
     width: 1000px;
-    margin: 0 auto;
+    margin: 0 auto; /*top and bottom 0, left and right auto */
 }
 
 a:link {
     color: royalblue;
-    text-decoration:none;
+    text-decoration:none; /*removes the underline of hylperlinks */
 }
 
 a:hover {
